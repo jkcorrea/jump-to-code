@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
+    "mikestead.dotenv",
+    "orta.vscode-jest",
+    "firsttris.vscode-jest-runner"
+  ],
+  "unwantedRecommendations": []
+}
