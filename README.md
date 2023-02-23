@@ -24,6 +24,18 @@ This extension only works with VSCode installed. Also I doubt it works on Window
 
 https://user-images.githubusercontent.com/1787115/220835559-8152e558-1844-46d6-88e4-7c19e3bf250e.mp4
 
+## Roadmap
+- [ ] Validate file path with a Regex (/must/be/like/this)
+- [ ] See if it works on Windows/other OSes
+- [ ] Add a "Jump to code" button w/o line number to the action bar on GitHub files
+- [ ] Add a way to "jump to repo" anywhere within a GH repo
+
+Stretch goals
+- [ ] GitLab support
+- [ ] Other editor support
+- [ ] Better UX in popup
+- [ ] Slim down app (do we really need react? probably not. can I be bothered to write plain html/css/js? *hell* no!)
+
 ## Development
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
