@@ -5,9 +5,6 @@ A dead simple browser extension that allows you to jump from a file in GitHub to
 I was already working on a Chrome extension when I saw [this tweet](https://twitter.com/jarredsumner/status/1628513557980794882) & decided I could fix this!
 
 
-https://user-images.githubusercontent.com/1787115/220835559-8152e558-1844-46d6-88e4-7c19e3bf250e.mp4
-
-
 > **⚠️WARNING⚠️** this extension is very unfinished. I've only tested it on my machine and it barely works at that. I welcome contributions and don't plan to spend any more time on this unless someone begs me to.
 
 ## How it works
@@ -15,11 +12,17 @@ https://user-images.githubusercontent.com/1787115/220835559-8152e558-1844-46d6-8
 This extension only works with VSCode installed. Also I doubt it works on Windows right now. (Is that you drafting a PR I hear??)
 
 1. Open a GitHub repo (like this one!)
-1. Open a file in that repo
-1. Click the `...` on a line number
-1. Click "Jump to code..."
-1. ???
-1. Profit!
+2. Click the extension in your chrome bar
+3. Configure where on your local file system the repo is located
+4. Open a file in that repo on GitHub
+5. Click the `...` on a line number
+6. Click "Jump to code..."
+7. ???
+8. Profit!
+
+## Demo video
+
+https://user-images.githubusercontent.com/1787115/220835559-8152e558-1844-46d6-88e4-7c19e3bf250e.mp4
 
 ## Development
 
