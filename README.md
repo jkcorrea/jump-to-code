@@ -4,6 +4,10 @@ A dead simple browser extension that allows you to jump from a file in GitHub to
 
 I was already working on a Chrome extension when I saw [this tweet](https://twitter.com/jarredsumner/status/1628513557980794882) & decided I could fix this!
 
+
+https://user-images.githubusercontent.com/1787115/220835559-8152e558-1844-46d6-88e4-7c19e3bf250e.mp4
+
+
 > **⚠️WARNING⚠️** this extension is very unfinished. I've only tested it on my machine and it barely works at that. I welcome contributions and don't plan to spend any more time on this unless someone begs me to.
 
 ## How it works
