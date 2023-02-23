@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/1787115/220835559-8152e558-1844-46d6-8
 - [ ] Add a "Jump to code" button w/o line number to the action bar on GitHub files
 - [ ] Add a way to "jump to repo" anywhere within a GH repo
 
-Stretch goals
+Stretch goals (**accepting PRs!**)
 - [ ] GitLab support
 - [ ] Other editor support
 - [ ] Better UX in popup
